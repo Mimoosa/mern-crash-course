@@ -12,7 +12,6 @@ It includes a React (Vite) frontend, an Express + MongoDB backend, REST API func
 - Render – production hosting and deployment
 
 ## Live Demo
-https://mern-crash-course-35nq.onrender.com/
 [https://mern-crash-course-35nq.onrender.com/](https://mern-crash-course-35nq.onrender.com/)
 
 
